@@ -7,7 +7,7 @@
 // }
 // pickingNames();
 
-var arry= ["Lane","Michael","Mathatse","Brenden","Fabien","Rajiv","PJ","Dwight","Ilker","Tyler","Christopher"];
+var arry= ["Lane Miles","Michael Nguyen","Mathatse Mokgoatsana","Brenden DeWolf","Fabien David","Rajiv Bawa","PJ Jimenez","Dwight Pirtle","Ilker Karakasoglu","Tyler Hedrick","Christopher Nulty"];
 
 var rand = arry[Math.floor(Math.random() * arry.length)];
 
